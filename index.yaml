@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  etcd-backup-restore:
+  - apiVersion: v1
+    created: "2022-05-05T09:46:22.756296913+02:00"
+    description: Helm chart for etcd with backup-restore support.
+    digest: cf8ddada448577f5d209d596f3fbeb2316477157104861434a3454790fa912f2
+    name: etcd-backup-restore
+    urls:
+    - etcd-backup-restore-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-05-05T09:46:22.754026377+02:00"
